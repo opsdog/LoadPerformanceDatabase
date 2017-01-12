@@ -254,3 +254,4 @@ LoadHTC-WResp.o: LoadHTC-WResp.c DECtoHEX.o /home/douggreenwald/lib/TokenParse.o
 LoadHTC-WIOPs.o: LoadHTC-WIOPs.c DECtoHEX.o /home/douggreenwald/lib/TokenParse.o
 LoadHTC-WTRate.o: LoadHTC-WTRate.c DECtoHEX.o /home/douggreenwald/lib/TokenParse.o
 LoadHTC01-CSV.o: LoadHTC01-CSV.c /home/douggreenwald/lib/TokenParse.o
+
